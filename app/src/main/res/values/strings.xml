@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_Notification</string>
+    <string name="send_notification">SEND NOTIFICATION</string>
+    <string name="custom_notification">CUSTOM NOTIFICATION</string>
+</resources>
